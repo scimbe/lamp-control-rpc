@@ -1,10 +1,9 @@
 # Vibe Coding Projekt
 
-Dieses Projekt demonstriert die Anwendung von *Vibe Coding*, einer innovativen Programmiertechnik, bei der Künstliche Intelligenz (KI) genutzt wird, um Software durch natürliche Sprachbefehle zu generieren. Dabei übernimmt die KI den Großteil der Codierung, während der Entwickler die Rolle des Anleitenden und Überprüfenden einnimmt.  [oai_citation_attribution:0‡Wikipedia – Die freie Enzyklopädie](https://de.wikipedia.org/wiki/Vibe_Coding?utm_source=chatgpt.com)
-
+Dieses Projekt demonstriert die Anwendung von *Vibe Coding*, einer innovativen Programmiertechnik, bei der Künstliche Intelligenz (KI) genutzt wird, um Software durch natürliche Sprachbefehle zu generieren. Dabei übernimmt die KI den Großteil der Codierung, während der Entwickler die Rolle des Anleitenden und Überprüfenden einnimmt.  
 ## Erstellung mit GitHub Copilot Chat Agent
 
-Das vorliegende Projekt wurde vollständig mit dem GitHub Copilot Chat Agent entwickelt. Dieses Tool ermöglicht es, durch einfache Anweisungen in natürlicher Sprache komplexe Codierungsaufgaben zu automatisieren.  [oai_citation_attribution:1‡Visual Studio Code](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode?utm_source=chatgpt.com)
+Das vorliegende Projekt wurde vollständig mit dem GitHub Copilot Chat Agent entwickelt. Dieses Tool ermöglicht es, durch einfache Anweisungen in natürlicher Sprache komplexe Codierungsaufgaben zu automatisieren.  
 
 ### Anleitung zur Nutzung des GitHub Copilot Chat Agents
 
@@ -19,7 +18,7 @@ Das vorliegende Projekt wurde vollständig mit dem GitHub Copilot Chat Agent ent
 3. **Aktivierung des Agent-Modus:**
    - Stellen Sie sicher, dass Sie über ein aktives GitHub Copilot Abonnement verfügen.
    - Öffnen Sie die GitHub Copilot Chat-Schnittstelle in VS Code.
-   - Wählen Sie im Dropdown-Menü den "Agent"-Modus aus, um den Chat Agent zu aktivieren.  [oai_citation_attribution:2‡Visual Studio Code](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode?utm_source=chatgpt.com)
+   - Wählen Sie im Dropdown-Menü den "Agent"-Modus aus, um den Chat Agent zu aktivieren. 
 
 4. **Verwendung des Chat Agents:**
    - Beginnen Sie eine neue Unterhaltung mit dem Chat Agent.
