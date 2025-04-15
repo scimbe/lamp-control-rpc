@@ -11,21 +11,22 @@ Das vorliegende Projekt wurde vollständig mit dem GitHub Copilot Chat Agent ent
    - Laden Sie [Visual Studio Code](https://code.visualstudio.com/) herunter und installieren Sie es.
 
 2. **Installation der GitHub Copilot Erweiterung:**
+   - [Microsoft Quelle](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode)
    - Öffnen Sie VS Code.
    - Navigieren Sie zum Extensions Marketplace.
    - Suchen Sie nach "GitHub Copilot" und installieren Sie die Erweiterung.
 
-3. **Aktivierung des Agent-Modus:**
+4. **Aktivierung des Agent-Modus:**
    - Stellen Sie sicher, dass Sie über ein aktives GitHub Copilot Abonnement verfügen.
    - Öffnen Sie die GitHub Copilot Chat-Schnittstelle in VS Code.
    - Wählen Sie im Dropdown-Menü den "Agent"-Modus aus, um den Chat Agent zu aktivieren. 
 
-4. **Verwendung des Chat Agents:**
+5. **Verwendung des Chat Agents:**
    - Beginnen Sie eine neue Unterhaltung mit dem Chat Agent.
    - Beschreiben Sie in natürlicher Sprache die gewünschte Funktionalität oder den Code, den Sie generieren möchten.
    - Der Chat Agent wird daraufhin den entsprechenden Code vorschlagen oder direkt in Ihre Projektdateien einfügen.
 
-5. **Überprüfung und Anpassung des generierten Codes:**
+6. **Überprüfung und Anpassung des generierten Codes:**
    - Überprüfen Sie den vom Chat Agent erstellten Code sorgfältig.
    - Nehmen Sie bei Bedarf Anpassungen vor, um sicherzustellen, dass der Code Ihren Anforderungen entspricht und korrekt funktioniert.
 
